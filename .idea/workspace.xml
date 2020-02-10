@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a51ce8b-fc41-40d5-9488-bc54458ffeaf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XYb4mWmYpmwYzAhWxQFdhkSx6w" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mobiqityinc.packer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MY_WORKSPACE\package\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PackerTest.shouldReturnSolutionLessThanMaxItems">
+    <configuration name="PackageServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="implementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobiqityinc.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mobiqityinc.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.mobiqityinc.service.impl.PackageServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackageUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="implementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobiqityinc.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mobiqityinc.util" />
+      <option name="MAIN_CLASS_NAME" value="com.mobiqityinc.util.PackageUtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackageUtilsTest.shouldThrowExceptionIfItemCostExceeded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="implementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobiqityinc.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mobiqityinc.util" />
+      <option name="MAIN_CLASS_NAME" value="com.mobiqityinc.util.PackageUtilsTest" />
+      <option name="METHOD_NAME" value="shouldThrowExceptionIfItemCostExceeded" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackageUtilsTest.shouldThrowExceptionIfItemWeightInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="implementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobiqityinc.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mobiqityinc.util" />
+      <option name="MAIN_CLASS_NAME" value="com.mobiqityinc.util.PackageUtilsTest" />
+      <option name="METHOD_NAME" value="shouldThrowExceptionIfItemWeightInvalid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackerTest.shouldReturnSolutionLessThanMaxItems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="implementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobiqityinc.packer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mobiqityinc.packer" />
+      <option name="MAIN_CLASS_NAME" value="com.mobiqityinc.packer.PackerTest" />
+      <option name="METHOD_NAME" value="shouldReturnSolutionLessThanMaxItems" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PackerTest.shouldReturnSolutionLessThanMaxItems" />
+        <item itemvalue="JUnit.PackageServiceImplTest" />
+        <item itemvalue="JUnit.PackageUtilsTest" />
+        <item itemvalue="JUnit.PackageUtilsTest.shouldThrowExceptionIfItemCostExceeded" />
+        <item itemvalue="JUnit.PackageUtilsTest.shouldThrowExceptionIfItemWeightInvalid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a51ce8b-fc41-40d5-9488-bc54458ffeaf" name="Default Changelist" comment="" />
+      <created>1581225785836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581225785836</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobiqityinc/util/PackageUtilsTest.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="packages.get(0).items.get(1)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

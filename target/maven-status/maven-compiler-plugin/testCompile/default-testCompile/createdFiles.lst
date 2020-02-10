@@ -1,0 +1,3 @@
+com\mobiqityinc\service\impl\PackageServiceImplTest.class
+com\mobiqityinc\util\PackageUtilsTest.class
+com\mobiqityinc\packer\PackerTest.class

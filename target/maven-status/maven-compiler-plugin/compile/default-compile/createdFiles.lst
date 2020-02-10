@@ -1,0 +1,8 @@
+com\mobiquityinc\util\PackageUtils.class
+com\mobiquityinc\service\PackageService.class
+com\mobiquityinc\domain\Package.class
+com\mobiquityinc\domain\Item.class
+com\mobiquityinc\service\impl\PackageServiceImpl.class
+com\mobiquityinc\domain\Inventory.class
+com\mobiquityinc\exception\APIException.class
+com\mobiquityinc\packer\Packer.class
